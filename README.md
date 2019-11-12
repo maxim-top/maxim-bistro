@@ -7,8 +7,8 @@
 1. 客户端
 + Floo API
   - Client SDK 代号 [Floo](https://www.wizardingworld.com/writing-by-jk-rowling/floo-powder)
-+ iOS App
-+ 安卓 Android App
++ [iOS App](https://github.com/maxim-top/maxim-ios/issues)
++ [安卓 Android App](https://github.com/maxim-top/maxim-android/issues)
 + 网页 Web 和微信小程序
 + [Linux/C++ Demo](https://github.com/maxim-top/maxim-embedded/issues)
 + 桌面客户端/PC(Windows/Linux/MacOS)
