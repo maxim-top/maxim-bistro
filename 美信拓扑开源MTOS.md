@@ -12,7 +12,7 @@
 | [maxim-ios](https://github.com/maxim-top/maxim-ios)      | #AppDemo #移动端 #iOS   | DemoApp iOS端 | Object-C  | 66231 | 2019/11/07 | 
 | [maxim-embedded](https://github.com/maxim-top/maxim-embedded) | #AppDemo #Linux #嵌入式 | DemoApp嵌入式版 | C++  | 1622 | 2019/11/07 | 
 | [maxim-web](https://github.com/maxim-top/maxim-web)      | #AppDemo #Web #网页     | DemoApp网页端 | Javascript  | 9221 | 2020/02/23 | 
-| [maxim-pc](https://github.com/maxim-top/maxim-pc)       | #AppDemo #PC #Windows #Mac #Electron | DemoApp PC端 | Javascript  | 9939 | 
+| [maxim-pc](https://github.com/maxim-top/maxim-pc)       | #AppDemo #PC #Windows #Mac #Electron | DemoApp PC端 | Javascript  | 9939 | 2020/04/10 |
 | [maxim-uniapp](https://github.com/maxim-top/maxim-uniapp)   | #AppDemo #小程序 #H5 #UniApp | DemoApp H5/小程序端 | Javascript  | 5558 | 2020/07/05 | 
 | [floo-android](https://github.com/maxim-top/floo-android)   | #SDK #Floo #移动端 #安卓 #SWIG #JNI | 安卓原生SDK | C++/Java  | 37528 | 2020/05/23 | 
 | floo-ios       | #SDK #Floo #移动端 #iOS | iOS原生SDK | Object-C | 13540 | EST 2021/01 | 
