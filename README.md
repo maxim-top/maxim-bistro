@@ -2,16 +2,17 @@
 欢迎来到美信拓扑的小酒馆，我们终于有机会一起坐坐，聊聊关于美信拓扑和IM的事儿了 :wink:
 
 ## 菜单
-有源码的项目会指引你去专门的地方，源码之前，了无秘密。
+有源码的项目会指引你去专门的地方，源码之前，了无秘密。 详情列表请见[美信拓扑开源MTOS](美信拓扑开源MTOS.md)
 
 1. 客户端
 + Floo API
   - Client SDK 代号 [Floo](https://www.wizardingworld.com/writing-by-jk-rowling/floo-powder)
 + [iOS App](https://github.com/maxim-top/maxim-ios/issues)
 + [安卓 Android App](https://github.com/maxim-top/maxim-android/issues)
-+ 网页 Web 和微信小程序
++ [网页 Web](https://github.com/maxim-top/maxim-web/issues)
++ [微信小程序/Uniapp](https://github.com/maxim-top/maxim-uniapp/issues)
 + [Linux/C++ Demo](https://github.com/maxim-top/maxim-embedded/issues)
-+ 桌面客户端/PC(Windows/Linux/MacOS)
++ [桌面客户端/PC(Windows/Linux/MacOS)](https://github.com/maxim-top/maxim-pc/issues)
 <br />
 
 2. 服务端
