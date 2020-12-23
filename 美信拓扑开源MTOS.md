@@ -21,7 +21,7 @@
 | floo           | #SDK #Floo #IM #客户端 #XSYNC协议 #跨平台 | IM客户端跨平台库，代号 Floo，解析 XSYNC 协议 | C++  | 51544 | 待定 | 
 | fireplace      | #IM #服务端 #XSYNC协议   | IM服务端，XSYNC协议解析 | Erlang  | 22674 | 待定 | 
 | ratel          | #API #服务端 #URG       | API服务端，包括用户、好友、群组服务 | Java  | 74643 | 待定 | 
-| 汇总 | | | | 178448 | 
+| 汇总 | | | | 355554 | 178448
 
 以上代码统计使用 [code-stats](https://github.com/qualiabyte/code-stats)，考虑到代码行数只是衡量软件项目的一个指标，因此我们并没有分析排除部分自动生成的代码，毕竟已开源了不是😜
 
