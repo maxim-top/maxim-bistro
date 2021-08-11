@@ -11,7 +11,7 @@
 | 网页Web集成 | [issues](https://github.com/maxim-top/maxim-web/issues) | [在线试用](https://chat.maximtop.com/) | [codes](https://github.com/maxim-top/maxim-web/issues) |
 | 小程序/H5集成 | [issues](https://github.com/maxim-top/maxim-uniapp/issues) | [在线试用](https://chat-h5.maximtop.com/) | [codes](https://github.com/maxim-top/maxim-uniapp/issues) |
 | 嵌入式Linux集成 | [issues](https://github.com/maxim-top/maxim-embedded/issues) | [Demo下载](https://www.maximtop.com/qrcode/) | [codes](https://github.com/maxim-top/maxim-embedded/issues) |
-| 桌面客户端/PC | [issues](https://github.com/maxim-top/maxim-pc/issues) | [Windows下载](https://package.maximtop.com/美信拓扑IM%200.0.7.win.exe) [MacOS下载](https://package.maximtop.com/美信拓扑IM.zip) | [codes](https://github.com/maxim-top/maxim-pc/issues) |
+| 桌面客户端/PC | [issues](https://github.com/maxim-top/maxim-pc/issues) | [Windows下载](https://package.maximtop.com/美信拓扑IM%202.9.9.win.exe) [MacOS下载](https://package.maximtop.com/美信拓扑IM%202.9.9.dmg) | [codes](https://github.com/maxim-top/maxim-pc/issues) |
 | 服务端集成 | [issues](https://github.com/maxim-top/maxim-bistro/issues) | [API文档](https://www.maximtop.com/docs/api/) | 暂未开源 |
 | 控制台试用/充值/账单 | [issues](https://github.com/maxim-top/maxim-bistro/issues) | [注册登录](https://console.maximtop.com/) | 无 |
 
